@@ -1,0 +1,4 @@
+#Mon Apr 30 04:30:10 MDT 2018
+base.0=C\:\\Users\\OEM\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+renamed.0=classes.dex
+file.0=C\:\\Users\\OEM\\AndroidStudioProjects\\AnimateXML\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19\\classes.dex
